@@ -3,6 +3,7 @@
     {"id":{"name":"s_player_lightpunch","path":"sprites/s_player_lightpunch/s_player_lightpunch.yy",},"order":7,},
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},"order":3,},
     {"id":{"name":"Approach","path":"scripts/Approach/Approach.yy",},"order":1,},
+    {"id":{"name":"tune_windows95","path":"sounds/tune_windows95/tune_windows95.yy",},"order":0,},
     {"id":{"name":"init","path":"rooms/init/init.yy",},"order":0,},
     {"id":{"name":"sCol","path":"sprites/sCol/sCol.yy",},"order":0,},
     {"id":{"name":"sCol5","path":"sprites/sCol5/sCol5.yy",},"order":4,},
