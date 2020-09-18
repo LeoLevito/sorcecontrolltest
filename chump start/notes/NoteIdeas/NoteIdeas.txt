@@ -1,0 +1,6 @@
+BIG NOTES mY GUY
+
+check out sequences for animation and cutscenes with audio and all that
+
+Enemy AI: implement pathfinding so they seem smart and adds to the fighting maybe?
+
